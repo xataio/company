@@ -1,0 +1,2 @@
+# company
+About xata.io
