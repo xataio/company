@@ -16,4 +16,4 @@ Monica is the founder and CEO of [Xata.io](https://xata.io), a serverless databa
 
 Previously, she has founded Packetbeat, an open source monitoring system, which was acquired by Elastic in 2015. At Elastic, she served as Director of Engineering, leading several teams, including the teams developing the popular open source projects Logstash and Elastic Beats.
 
-When she’s not busy with the data grokking, she enjoys spending time with her daughter and traveling the world.
+When she’s not busy with data grokking, she enjoys spending time with her daughter and traveling the world.
