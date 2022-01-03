@@ -4,7 +4,7 @@
 
 Xata is a combination of a relational database, an analytics engine, and a free-text search engine. All made simple by a spreadsheet-like UI and a single powerful data API, with granular security, zero-downtime migrations, subscriptions, ACID transactions, and caching built-in.
 
-Details about the founder are <a href="https://github.com/xataio/company/tree/main/founder#readme"> here </a>.
+Details about the founder are <a href="https://github.com/xataio/company/tree/main/founder#readme"> here</a>.
 
 # Logos
 
@@ -12,6 +12,8 @@ Details about the founder are <a href="https://github.com/xataio/company/tree/ma
 <img src="https://github.com/xataio/company/blob/main/logo/white-logo-with-butterfly.png" width="200">
 
 <img src="https://github.com/xataio/company/blob/main/logo/white-logo-no-butterfly.png" width="200">
+
+You can find more logos variants <a href="https://github.com/xataio/company/tree/main/logo">here</a>.
 
 
 
