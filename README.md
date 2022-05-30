@@ -8,15 +8,12 @@ Details about the founder are <a href="https://github.com/xataio/company/tree/ma
 
 # Logos
 
-<img src="https://github.com/xataio/company/blob/main/logo/white-square-logo-with-butterfly.png" width="200">
-<img src="https://github.com/xataio/company/blob/main/logo/white-logo-with-butterfly.png" width="200">
+##### Colored Butterfly
+<img src="https://github.com/xataio/company/blob/main/logo/non-resizable/for-light-backgrounds/colored-with-text.png" width="300">
+<img src="https://github.com/xataio/company/blob/main/logo/non-resizable/xatafly.png" width="100">
 
-<img src="https://github.com/xataio/company/blob/main/logo/white-logo-no-butterfly.png" width="200">
+##### Black Butterfly
+<img src="https://github.com/xataio/company/blob/main/logo/non-resizable/for-light-backgrounds/black-with-text.png" width="300">
+<img src="https://github.com/xataio/company/blob/main/logo/non-resizable/for-light-backgrounds/black-xatafly.png" width="100"
 
 You can find more logos variants <a href="https://github.com/xataio/company/tree/main/logo">here</a>.
-
-
-
-
-
-
