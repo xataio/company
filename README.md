@@ -17,3 +17,9 @@ Details about the founder are <a href="https://github.com/xataio/company/tree/ma
 <img src="https://github.com/xataio/company/blob/main/logo/non-resizable/for-light-backgrounds/black-xatafly.png" width="100"
 
 You can find more logos variants <a href="https://github.com/xataio/company/tree/main/logo">here</a>.
+
+#### Team off-site
+
+<img src="https://github.com/xataio/company/blob/main/photo/IMG_6473.png" width="300">
+<img src="https://github.com/xataio/company/blob/main/photo/IMG_6566.jpg" width="300">
+<img src="https://github.com/xataio/company/blob/main/photo/IMG_6650.jpg" width="300">
