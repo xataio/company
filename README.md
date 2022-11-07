@@ -1,8 +1,11 @@
 # About Xata
 
-**Serverless database for Jamstack, Low-Code, and more**
+**Think data, not databases.**
 
-Xata is a combination of a relational database, an analytics engine, and a free-text search engine. All made simple by a spreadsheet-like UI and a single powerful data API, with granular security, zero-downtime migrations, subscriptions, ACID transactions, and caching built-in.
+Xata is a serverless database with built-in powerful search and analytics.
+One API, multiple type-safe client libraries, and optimized for your development workflow.
+
+More details on 🦋 https://xata.io 🦋
 
 Details about the founder are <a href="https://github.com/xataio/company/tree/main/founder#readme"> here</a>.
 
@@ -20,6 +23,4 @@ You can find more logos variants <a href="https://github.com/xataio/company/tree
 
 #### Team off-site
 
-<img src="https://github.com/xataio/company/blob/main/photo/IMG_6473.png" width="300">
-<img src="https://github.com/xataio/company/blob/main/photo/IMG_6566.jpg" width="300">
-<img src="https://github.com/xataio/company/blob/main/photo/IMG_6650.jpg" width="300">
+You can find photos from the team off-site <a href="https://github.com/xataio/company/tree/main/photo">here</a>.
